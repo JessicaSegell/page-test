@@ -1,0 +1,43 @@
+body {
+    font-family: 'Roboto Mono', monospace;
+    background-color: rgb(41, 38, 38); 
+    color: white; 
+    line-height: 2rem; 
+}
+
+.tag {
+    color: rgb(91, 142, 238); 
+}
+
+.class {
+    color: rgb(166, 215, 243); 
+}
+
+.string {
+    color: rgb(218, 112, 42); 
+}
+
+.business-card{
+    margin-left: 50px; 
+}
+
+.title {
+    margin-left: 50px; 
+}
+
+a {
+    text-decoration: none; 
+    color: white; 
+}
+
+.kvalifikationer {
+    margin-left: 100px; 
+}
+
+.praktisk {
+    margin-left: 100px; 
+}
+
+p {
+    margin-left: 50px; 
+}
